@@ -1,1 +1,0 @@
-# Foundation_Of_Artificial_Inteligence_Sakoban
